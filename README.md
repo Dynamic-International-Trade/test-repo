@@ -1,6 +1,6 @@
 I invite everyone to create their own [branch](https://github.com/blog/1377-create-and-delete-branches) of this repository, editing this file, and submitting a [pull request](https://help.github.com/articles/using-pull-requests/).
 
-The reason we probably be doing that instead of pushing our commits directly to master is so we can make sure everything gets glued together correctly
+The reason we probably be doing that instead of pushing our commits directly to master is so we can make sure everything gets glued together correctly.
 
 More info about repositories [here](https://help.github.com/articles/create-a-repo/).
 
