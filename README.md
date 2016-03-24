@@ -5,3 +5,5 @@ The reason we should probably be doing that instead of pushing our commits direc
 More info about repositories [here](https://help.github.com/articles/create-a-repo/).
 
 This is non-essential, but if you happen to be confused [this](https://git-scm.com/documentation) may help. It explains what git is and how it works.
+
+hope this helps 
